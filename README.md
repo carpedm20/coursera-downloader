@@ -1,4 +1,4 @@
- simple coursera downloader
+ coursera downloader
 =====
  
 This is a simple python code for download course material from coursera.
